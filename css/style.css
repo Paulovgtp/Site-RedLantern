@@ -78,7 +78,7 @@ b {
     min-width: auto;
     font-size: 16px;
     font-family: 'Manrope';
-    margin-top: 18px;
+    margin: 18px 0 0 15%;
     padding: 13px 15px;
     transition: .3s;
     border: 0;
@@ -87,7 +87,7 @@ b {
 }
 
 .contact input#enviar:hover {
-    width: 87%;
+    transform: scale(1.03);
     transition: .3s;
 }
 
@@ -282,7 +282,7 @@ h1.titulo {
 }
 
 .skills-text:hover #img-top {
-    transform: scale(1.4);
+    transform: scale(1.1);
 }
 
 .skills-text h3 {
